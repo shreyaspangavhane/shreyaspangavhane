@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shreyas Pangavhane</h1>
 <h3 align="center">I aspire to be a data scientist, and my passion for data analysis and machine learning motivates me.</h3>
 <br><br>
-
- -🔭 I’m currently working on Data Science<br> I’m currently learning Python libraries, Statistics<br>Ask me about Web Dev,Python,Node.js<br>How to reach me shreyaspangavhane2022@gmail.com<br><br>
-
+<hr>
+ - 🔭 I’m currently working on Data Science<br>
+ - 🌱 I’m currently learning Python libraries, Statistics<br>
+ - 💬 Ask me about Web Dev,Python,Node.js<br>
+ - 📫 How to reach me shreyaspangavhane2022@gmail.com<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_pangavhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyas-pangavhane-3a011a263/) 
