@@ -7,6 +7,8 @@
  - 🌱 I’m currently learning Python libraries, Statistics<br>
  - 💬 Ask me about Web Dev,Python,Node.js<br>
  - 📫 How to reach me shreyaspangavhane2022@gmail.com<br><br>
+ <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_pangavhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyas-pangavhane-3a011a263/) 
