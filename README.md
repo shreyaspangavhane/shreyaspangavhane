@@ -1,13 +1,14 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shreyas Pangavhane</h1>
 <h3 align="center">I aspire to be a data scientist, and my passion for data analysis and machine learning motivates me.</h3>
-<br><br>
+<br>
 <hr>
+ <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
  - 🔭 I’m currently working on Data Science<br>
  - 🌱 I’m currently learning Python libraries, Statistics<br>
  - 💬 Ask me about Web Dev,Python,Node.js<br>
  - 📫 How to reach me shreyaspangavhane2022@gmail.com<br><br>
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 ## 🌐 Socials:
