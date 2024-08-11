@@ -8,7 +8,7 @@
  - 🔭 I’m currently working on Data Science<br><br>
  - 🌱 I’m currently learning Python libraries, Statistics<br><br>
  - 💬 Ask me about Web Dev,Python,Node.js<br><br>
- - 📫 How to reach me shreyaspangavhane2022@gmail.com<br><br>
+ - 📫 How to reach me shreyaspangavhane2022@gmail.com<br><br><br><br><br>
 
 
 ## 🌐 Socials:
